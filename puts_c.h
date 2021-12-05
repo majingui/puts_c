@@ -1,2 +1,2 @@
-#include<puts_c.c>
-int puts_c(char *input);
+#include"puts_c.c"
+void puts_c(char *input);
