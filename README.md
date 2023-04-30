@@ -1,4 +1,5 @@
-
+# CTF Pwn demo task
+## quick start
 Use command "make" to finish compliment and link
 Use command "./main" can run the .out file
 Use command "make clean" to remove the object file
